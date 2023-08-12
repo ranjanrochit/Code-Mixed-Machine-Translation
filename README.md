@@ -48,44 +48,30 @@
 
 22. [Are Multilingual Models Effective in Code-Switching?](https://arxiv.org/pdf/2103.13309.pdf)
 
-23. Generating Code-switched Text for Lexical Learning
-Authors: Igor Labutov, Hod Lipson
-Venue: ACL 2014
-Offensive Content Detection via Synthetic Code-Switched Text
-Authors: Cesa Salaam, Franck Dernoncourt, Trung Bui, Danda Rawat, Seunghyun Yoon
-Venue: COLING 2022
-CST5: Data Augmentation for Code-Switched Semantic Parsing
-Authors: Anmol Agarwal, Jigar Gupta, Rahul Goel, Shyam Upadhyay, Pankaj Joshi, Rengarajan Aravamudhan
-Venue: Arxiv 2022
-CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP
-Authors: Libo Qin, Minheng Ni, Yue Zhang, Wanxiang Che
-Venue: IJCAI 2020
-Generating Code-Switched Text from Monolingual Text with Dependency Tree
-Authors: Bryan Gregorius, Takeshi Okadome
-Venue: The 20th Annual Workshop of the Australasian Language Technology Association 2022
-Investigating Lexical Replacements for Arabic-English Code-Switched Data Augmentation
-Authors: Injy Hamed, Nizar Habash, Slim Abdennadher, Ngoc Thang Vu
-Venue: LoResMT 2023
-Comparing Grammatical Theories of Code-Mixing
-Authors: Adithya Pratapa, Monojit Choudhury
-Venue: Seventh Workshop on Noisy User-generated Text (W-NUT 2021)
-Can You Traducir This? Machine Translation for Code-Switched Input
-Authors: Jitao Xu, François Yvon
-Venue: Fifth Workshop on Computational Approaches to Linguistic Code-Switching 2021
-Code-Switching for Enhancing NMT with Pre-Specified Translation
-Authors: Kai Song, Yue Zhang, Heng Yu, Weihua Luo, Kun Wang, Min Zhang
-Venue: NAACL 2019
-Improving Code-switching Language Modeling with Artificially Generated Texts using Cycle-consistent Adversarial Networks
-Authors: Chia-Yu Li, Ngoc Thang Vu
-Venue: INTERSPEECH 2020
-Code-Switching Sentence Generation by Bert and Generative Adversarial Networks
-Authors: Yingying Gao, Junlan Feng, Ying Liu, Leijing Hou, Xin Pan, Yong Ma
-Venue: INTERSPEECH 2019
-CSP:Code-Switching Pre-training for Neural Machine Translation
-Authors: Zhen Yang, Bojie Hu, Ambyera Han, Shen Huang, Qi Ju
-Venue: EMNLP 2020
-Style Variation as a Vantage Point for Code-Switching
-Authors: Zhen Yang, Bojie Hu, Ambyera Han, Shen Huang, Qi Ju
-Venue: INTERSPEECH 2020
+23. [Generating Code-switched Text for Lexical Learning](https://aclanthology.org/P14-1053.pdf)
+
+24. [Offensive Content Detection via Synthetic Code-Switched Text](https://aclanthology.org/2022.coling-1.575.pdf)
+
+25. [CST5: Data Augmentation for Code-Switched Semantic Parsing](https://arxiv.org/pdf/2211.07514.pdf)
+
+26. [CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://arxiv.org/pdf/2006.06402.pdf)
+
+27. [Generating Code-Switched Text from Monolingual Text with Dependency Tree](https://alta2022.alta.asn.au/files/ALTA_2022_12.pdf)
+
+28. [Investigating Lexical Replacements for Arabic-English Code-Switched Data Augmentation](https://arxiv.org/pdf/2205.12649.pdf)
+
+29. [Comparing Grammatical Theories of Code-Mixing](https://aclanthology.org/2021.wnut-1.18.pdf)
+
+30. [Can You Traducir This? Machine Translation for Code-Switched Input](https://aclanthology.org/2021.calcs-1.11.pdf)
+
+31. [Code-Switching for Enhancing NMT with Pre-Specified Translation](https://aclanthology.org/N19-1044.pdf)
+
+32. [Improving Code-switching Language Modeling with Artificially Generated Texts using Cycle-consistent Adversarial Networks](https://arxiv.org/pdf/2112.06327.pdf)
+
+33. [Code-Switching Sentence Generation by Bert and Generative Adversarial Networks](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/2501.pdf)
+
+34. [CSP:Code-Switching Pre-training for Neural Machine Translation](https://aclanthology.org/2020.emnlp-main.208.pdf)
+
+35. [Style Variation as a Vantage Point for Code-Switching](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2574.pdf)
 
 
