@@ -4,12 +4,10 @@
 
 # Generation of Code-Mixed text: Literature
 
-[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://aclanthology.org/2020.findings-emnlp.206/)
-Authors: Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya
-Venue: EMNLP 2020 (Findings)
-Language Agnostic Code-Mixing Data Augmentation by Predicting Linguistic Patterns [Link]
-Authors: Shuyue Stella Li, Kenton Murray
-Venue: Arxiv 2022
+1. [A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://aclanthology.org/2020.findings-emnlp.206/)
+
+2. [Language Agnostic Code-Mixing Data Augmentation by Predicting Linguistic Patterns](https://arxiv.org/pdf/2211.07628.pdf)
+
 The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges [Link]
 Authors: Genta Winata, Alham Fikri Aji, Zheng Xin Yong, Thamar Solorio
 Venue: ACL 2023 (Findings)
